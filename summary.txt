@@ -1,4 +1,0 @@
-A feladat megoldásához a naív Bayes osztályozót választottam, ami az osztályra vonatkozó feltételes valószínűséget azt feltételezve becsüli meg,
-hogy az attribútumok feltételesen függetlenek adott y osztálycímke mellett.
-A korpuszban található szavak súlyozására pedig a TF-IDF módszert választottam. 
-Ez a statisztikai mérőszám lehetővé teszi egy dokumentumban szereplő kifejezés jelentőségének értékelését a gyűjteményhez vagy korpuszhoz képest.
