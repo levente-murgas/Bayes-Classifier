@@ -1,6 +1,6 @@
 # Mesterséges intelligenciával a valóságért: álhír-detekció
 
-A program a BME mesterséges intelligencia és gépi tanulás tárgyú tanulmányi versenyére készült.
+A modell a BME mesterséges intelligencia és gépi tanulás tárgyú tanulmányi versenyére készült 2022/23 őszi félévében amin II. helyezést ért el.
 
 ## Feladat rövid leírása:
 
